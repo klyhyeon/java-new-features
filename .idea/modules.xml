@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-new-features.iml" filepath="$PROJECT_DIR$/java-new-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk-12/jdk-12.iml" filepath="$PROJECT_DIR$/jdk-12/jdk-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk-14/jdk-14.iml" filepath="$PROJECT_DIR$/jdk-14/jdk-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk-15/jdk-15.iml" filepath="$PROJECT_DIR$/jdk-15/jdk-15.iml" />
+    </modules>
+  </component>
+</project>
